@@ -2,7 +2,9 @@
     "name": "seemaj1/test_proj",
     "description": "Testing project",
     "type": "project",
+	
     "minimum-stability": "dev",
+	"prefer-stable": true,
     "require": {
 		"php": ">=7.2.0"
 	},
