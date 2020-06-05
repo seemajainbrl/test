@@ -1,0 +1,14 @@
+{
+    "name": "seemaj1/test_proj",
+    "description": "Testing project",
+    "type": "project",
+    "minimum-stability": "dev",
+    "require": {
+		"php": ">=7.2.0"
+	},
+	"autoload": {
+        "psr-0": {
+            "HelloWorld": "src/"
+        }
+    }
+}
